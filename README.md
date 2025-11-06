@@ -1,1 +1,2 @@
-# se_lab_5-staticcode
+Software Engineering Lab 5
+Static code analysis
